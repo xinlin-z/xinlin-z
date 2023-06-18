@@ -1,8 +1,9 @@
 ### Self-made Tools
 
-* [toc4github](https://github.com/xinlin-z/toc4github), generate TOC automatically for README.md
-* [littlemail](https://github.com/xinlin-z/littlemail), command line email sending tool by pure Python
-* [smally](https://github.com/xinlin-z/smally), compress JPEG,PNG,GIF losslessly in batch mode
+* [toc4github](https://github.com/xinlin-z/toc4github): generate TOC automatically for README.md
+* [littlemail](https://github.com/xinlin-z/littlemail): command line email sending tool in pure Python
+* [smally](https://github.com/xinlin-z/smally): compress JPEG,PNG,GIF losslessly in batch mode
+* [autopass](https://github.com/xinlin-z/autopass): enter password automatically for sudo, ssh, scp, like sshpass
 
 <!--
 **xinlin-z/xinlin-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
