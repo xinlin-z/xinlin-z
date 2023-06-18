@@ -1,9 +1,15 @@
-### Hi there 👋
+### Self-made Tools
+
+* [toc4github](https://github.com/xinlin-z/toc4github), generate TOC automatically for README.md
+* [littlemail](https://github.com/xinlin-z/littlemail), command line email sending tool by pure Python
+* [smally](https://github.com/xinlin-z/smally), compress JPEG,PNG,GIF lossless in batch mode
 
 <!--
 **xinlin-z/xinlin-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
