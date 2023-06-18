@@ -2,7 +2,7 @@
 
 * [toc4github](https://github.com/xinlin-z/toc4github), generate TOC automatically for README.md
 * [littlemail](https://github.com/xinlin-z/littlemail), command line email sending tool by pure Python
-* [smally](https://github.com/xinlin-z/smally), compress JPEG,PNG,GIF lossless in batch mode
+* [smally](https://github.com/xinlin-z/smally), compress JPEG,PNG,GIF losslessly in batch mode
 
 <!--
 **xinlin-z/xinlin-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
