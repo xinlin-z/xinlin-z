@@ -5,6 +5,7 @@
 * [smally](https://github.com/xinlin-z/smally): compress JPEG,PNG,GIF losslessly in batch mode
 * [autopass](https://github.com/xinlin-z/autopass): enter password automatically for sudo,ssh,scp etc., like sshpass, in pure Python
 * [portfly](https://github.com/xinlin-z/portfly): remote port forwarding in pure Python, by nonblocking socket and event IO
+* [tcping](https://github.com/xinlin-z/tcping): tcping by connect, in both Python and C
 
 <!--
 **xinlin-z/xinlin-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
