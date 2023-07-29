@@ -3,6 +3,7 @@
 * [toc4github](https://github.com/xinlin-z/toc4github): generate TOC automatically for README.md
 * [littlemail](https://github.com/xinlin-z/littlemail): command line SMTP email sending tool in pure Python
 * [smally](https://github.com/xinlin-z/smally): compress JPEG,PNG,GIF losslessly in batch mode
+* [tklog](https://github.com/xinlin-z/tklog): log widget based on tkinter
 * [autopass](https://github.com/xinlin-z/autopass): enter password automatically for sudo,ssh,scp etc., like sshpass, in pure Python
 * [portfly](https://github.com/xinlin-z/portfly): remote/local port forwarding in pure Python, by nonblocking socket and event IO
 * [tcping](https://github.com/xinlin-z/tcping): tcping by connect, in both Python and C
