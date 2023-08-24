@@ -1,5 +1,3 @@
-### Self-made Tools/Libs
-
 * [toc4github](https://github.com/xinlin-z/toc4github): generate TOC automatically for README.md
 * [littlemail](https://github.com/xinlin-z/littlemail): command line SMTP email sending tool in pure Python
 * [smally](https://github.com/xinlin-z/smally): compress JPEG,PNG,GIF losslessly in batch mode
