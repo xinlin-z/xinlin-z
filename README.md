@@ -5,7 +5,7 @@
 * [autopass](https://github.com/xinlin-z/autopass): enter password automatically for sudo,ssh,scp etc., like sshpass, in pure Python
 * [portfly](https://github.com/xinlin-z/portfly): remote/local port forwarding in Python, featured by nonblocking socket and event IO
 * [tcping](https://github.com/xinlin-z/tcping): tcping by connect, in Python and C respectively
-* [ringbb](https://github.com/xinlin-z/ringbb): head-only auto-resizable thread-safe Ring Byte Buffer template in C++
+* [ringbb](https://github.com/xinlin-z/ringbb): fast head-only auto-resizable thread-safe Ring Byte Buffer template in C++
 
 <!--
 **xinlin-z/xinlin-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
