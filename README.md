@@ -6,6 +6,7 @@
 * [portfly](https://github.com/xinlin-z/portfly): remote/local port forwarding in Python, featured by nonblocking socket and event IO
 * [tcping](https://github.com/xinlin-z/tcping): tcping by connect, in Python and C respectively
 * [ringbb](https://github.com/xinlin-z/ringbb): fast head-only auto-resizable thread-safe Ring Byte Buffer template in C++
+* [trie](https://github.com/xinlin-z/trie): trie data structure implemented in C++ and Python respectively
 
 <!--
 **xinlin-z/xinlin-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
