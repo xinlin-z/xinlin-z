@@ -3,7 +3,6 @@
 * [smally](https://github.com/xinlin-z/smally): compressing JPEG,PNG,GIF losslessly in batch mode
 * [autopass](https://github.com/xinlin-z/autopass): entering password automatically for sudo,ssh and scp, like sshpass, in Python
 * [portfly](https://github.com/xinlin-z/portfly): remote/local port forwarding in Python, featured by nonblocking socket and event IO
-* [tcping](https://github.com/xinlin-z/tcping): tcping by connect, in Python and C respectively
 * [ringbb](https://github.com/xinlin-z/ringbb): fast head-only auto-resizable thread-safe Ring Byte Buffer template in C++
 * [trie](https://github.com/xinlin-z/trie): trie data structure implemented in C++ and Python respectively
 
