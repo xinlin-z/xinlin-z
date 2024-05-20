@@ -1,4 +1,4 @@
-* [toc4github](https://github.com/xinlin-z/toc4github): generate TOC automatically for README.md (Python)
+* [toc4github](https://github.com/xinlin-z/toc4github): generate TOC automatically for README.md of Github (Python)
 * [littlemail](https://github.com/xinlin-z/littlemail): command line SMTP email sending tool (Python)
 * [smally](https://github.com/xinlin-z/smally): compressing JPEG,PNG,GIF losslessly in batch mode (Python,Shell)
 * [autopass](https://github.com/xinlin-z/autopass): entering password automatically for sudo,ssh and scp, like sshpass (Python)
